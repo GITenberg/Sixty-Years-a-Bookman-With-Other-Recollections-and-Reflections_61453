@@ -1,11 +1,16 @@
 _repo: Sixty-Years-a-Bookman-With-Other-Recollections-and-Reflections_61453
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61453-h/images/cover.jpg
 creator:
   author:
     agent_name: Shaylor, Joseph
     gutenberg_agent_id: '51435'
     url: http://www.gutenberg.org/2009/agents/51435
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61453#Sixty-Years-a-Bookman-With-Other-Recollections-and-Reflections
 gutenberg_issued: '2020-02-20'
 gutenberg_type: Text
 identifiers:
